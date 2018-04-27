@@ -1,0 +1,93 @@
+Applications Graphics Acceleration Info:
+Uptime: 1735317 Realtime: 1735317
+
+** Graphics info for pid 3616 [com.adibu.receh] **
+
+Recent DisplayList operations
+              DrawText
+              RestoreToCount
+            DrawRenderNode
+              DrawRenderNode
+              Save
+              ConcatMatrix
+              Save
+              Save
+              DrawBitmap
+              RestoreToCount
+            DrawRenderNode
+              DrawRenderNode
+                DrawRenderNode
+                Save
+                Translate
+                Save
+                DrawBitmap
+                RestoreToCount
+                Save
+                ClipRect
+                Translate
+                RestoreToCount
+    RestoreToCount
+  DrawRenderNode
+    DrawRenderNode
+      DrawRect
+  DrawRenderNode
+    DrawRenderNode
+      DrawRect
+RestoreToCount
+DrawRect
+multiDraw
+  DrawText
+DrawPatch
+DrawPatch
+DrawPatch
+DrawPatch
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+DrawBitmap
+DrawBitmap
+DrawShadow
+DrawRect
+DrawRect
+DrawRect
+DrawText
+DrawBitmap
+DrawBitmap
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache           215177 / 75497472
+  LayerCache                  0 / 50331648 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  8388608
+  GradientCache           10240 /  1048576
+  PathCache                   0 / 33554432
+  TessellationCache        3720 /  1048576
+  TextDropShadowCache         0 /  6291456
+  PatchCache                320 /   131072
+  FontRenderer 0 A8     1048576 /  1048576
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total  1048576 /  1048576
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  1278033 bytes, 1.22 MB
+
+Profile data in ms:
+
+	com.adibu.receh/com.adibu.receh.MainActivity/android.view.ViewRootImpl@1666aa96 (visibility=8)
+	com.adibu.receh/com.adibu.receh.EditActivity/android.view.ViewRootImpl@17b48617 (visibility=0)
+View hierarchy:
+
+  com.adibu.receh/com.adibu.receh.MainActivity/android.view.ViewRootImpl@1666aa96
+  63 views, 62.02 kB of display lists
+
+  com.adibu.receh/com.adibu.receh.EditActivity/android.view.ViewRootImpl@17b48617
+  30 views, 40.76 kB of display lists
+
+
+Total ViewRootImpl: 2
+Total Views:        93
+Total DisplayList:  102.77 kB
+

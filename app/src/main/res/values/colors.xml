@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#0069c0</color>
+    <color name="colorPrimaryAccent">#FFFFFF</color>
+
+    <color name="colorSecondary">#4fc3f7</color>
+    <color name="colorSecondaryDark">#0093c4</color>
+    <color name="colorSecondaryAccent">#4fc3f7</color>
+
+    <color name="outcomeColor">#F44336</color>
+    <color name="incomeColor">#4CAF50</color>
+    <color name="headerColorText">#F5F5F5</color>
+
+</resources>

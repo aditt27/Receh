@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546379010022",
+    "firebase_url": "https://receh-2c9ef.firebaseio.com",
+    "project_id": "receh-2c9ef",
+    "storage_bucket": "receh-2c9ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546379010022:android:fc397a60e71e463c",
+        "android_client_info": {
+          "package_name": "com.adibu.receh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546379010022-09ktmcjks5914nlikabe2dls4e6oitc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adibu.receh",
+            "certificate_hash": "18e7451de18d2c6139ac97ada9f30c6cc24009e8"
+          }
+        },
+        {
+          "client_id": "546379010022-fsauctmuiq9lv0t8tssu5qvabd8r94r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZx79_KiVHekgYhqZ1rZ4mJmTxbaPValc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546379010022-fsauctmuiq9lv0t8tssu5qvabd8r94r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

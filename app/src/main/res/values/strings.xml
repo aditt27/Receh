@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Receh</string>
+
+    <string name="main_activity_tab_home">Home</string>
+    <string name="main_activity_tab_stats">Stats</string>
+    <string name="main_activity_open_drawer">Opening the drawer</string>
+    <string name="main_activity_close_drawer">Closing the drawer</string>
+    <string name="fab_toast_unknown_data">Please select the data</string>
+
+    <string name="main_activity_success_add_new_data">New data added</string>
+    <string name="main_activity_error_add_new_data">Error with adding new data</string>
+
+    <string name="main_activity_success_rename_data">Rename successful</string>
+    <string name="main_activity_error_rename_data">Error with renaming data</string>
+
+    <string name="main_activity_success_delete_data">Data deleted</string>
+    <string name="main_activity_error_delete_data">Error with deleting data</string>
+
+    <string name="empty_view_title_text">You have no item to show</string>
+    <string name="empty_view_subtitle_text">Get started by adding a new item</string>
+
+    <string name="main_navigation_title">My Data</string>
+    <string name="main_navigation_add_data">Add Data</string>
+    <string name="main_navigation_sign_out">Sign Out</string>
+
+    <string name="main_naviation_item_delete_confirmation_title">Are you sure you want to delete</string>
+
+    <string name="main_navigation_add_data_dialog_title_edit_text">Title</string>
+    <string name="main_navigation_add_data_dialog_title">Add new Data</string>
+    <string name="main_navigation_add_data_dialog_cancel">Cancel</string>
+    <string name="main_navigation_add_data_dialog_add">Add</string>
+
+    <string name="detail_activity_title">Title</string>
+    <string name="detail_activity_values">Values</string>
+    <string name="detail_activity_datetime">Date and time</string>
+    <string name="detail_activity_transaction">Transaction</string>
+    <string name="detail_activity_description">Description</string>
+    <string name="detail_activity_income">Income</string>
+    <string name="detail_activity_outcome">Outcome</string>
+    <string name="detail_activity_nameofactivity">Details</string>
+    <string name="detail_activity_delete_confirmation_title">Delete this item?</string>
+    <string name="detail_activity_delete_error">Error with deleting item</string>
+    <string name="detail_activity_delete_success">Item deleted</string>
+
+    <string name="edit_activity_add_data">Add Item</string>
+    <string name="edit_activity_edit_data">Edit Item</string>
+    <string name="edit_activity_new_title">Title</string>
+    <string name="edit_activity_new_value">Values</string>
+    <string name="edit_activity_new_description">Description \n(optional)</string>
+    <string name="edit_activity_choice_income">Income</string>
+    <string name="edit_activity_choice_outcome">Outcome</string>
+    <string name="edit_activity_overview">Overview*</string>
+    <string name="edit_activity_transaction">Transaction*</string>
+    <string name="edit_activity_date">Date and time*</string>
+    <string name="edit_activity_error_insert">Error with inserting new item</string>
+    <string name="edit_activity_successfull_update">Item updated</string>
+    <string name="edit_activity_error_update">Error with updating new item</string>
+    <string name="edit_activity_successfull_insert">item inserted</string>
+    <string name="edit_activity_required">*Required</string>
+    <string name="edit_activity_empty_title">Title required</string>
+    <string name="edit_activity_empty_values">Values required</string>
+    <string name="edit_activity_empty_date">Date required</string>
+    <string name="edit_activity_empty_time">Time required</string>
+
+    <string name="stats_fragment_total">Total</string>
+
+    <!-- Common Text -->
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
